@@ -1,8 +1,8 @@
 <p align="center">
   <img style="border-radius: 50%; box-shadow: 0 0 10px #46D4D6; max-width: 350px;width: 40%;min-width: 200px;"  src="https://raw.githubusercontent.com/Dris7/Dris7.github.io/main/images/pro.png" alt="Logo">
 </p>
-#💫 About Me:
 
+# 💫 About Me:
 🔭 I’m currently working on expanding my knowledge of data structures and algorithms to improve my problem-solving skills.<br>👯 I’m looking to collaborate on open-source projects related to Android app development or machine learning.<br>🤝 I’m looking for help with learning more about cloud computing and distributed systems.<br>🌱 I’m currently learning React Native and Flutter for cross-platform mobile app development, as well as exploring advanced topics in computer vision and natural language processing.<br>💬 Ask me about my experience working with different programming languages and technologies or my approach to project management and team collaboration.<br>⚡ Fun fact: In my free time, I enjoy practicing calligraphy and learning new languages. I am currently fluent in Arabic, French, and English, and I am working on improving my Spanish proficiency.
 
 
